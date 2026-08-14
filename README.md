@@ -80,15 +80,15 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Msollajr&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&cache_seconds=86400" height="180" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Msollajr&theme=tokyonight&hide_border=true&show_icons=true&rank_icon=github" height="180" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Msollajr&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=86400" height="180" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Msollajr&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="180" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Msollajr&theme=tokyonight&hide_border=true&stroke=7CF7FF&fire=FF6B6B&ring=7CF7FF" width="60%" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=Msollajr&theme=tokyonight&hide_border=true&stroke=7CF7FF&fire=FF6B6B&ring=7CF7FF" width="60%" alt="GitHub Streak"/>
 
 </div>
 
@@ -121,7 +121,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Msollajr/Msollajr/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Msollajr/Msollajr/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Msollajr/Msollajr/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Msollajr/Msollajr/output/github-snake.svg" />
 </picture>
 
 </div>
