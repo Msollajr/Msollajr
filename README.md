@@ -80,15 +80,21 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Msollajr&theme=tokyonight&hide_border=true&show_icons=true&rank_icon=github" height="180" alt="GitHub Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Msollajr&theme=tokyonight" height="180" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Msollajr&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="180" alt="Top Languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Msollajr&theme=tokyonight" height="180" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=Msollajr&theme=tokyonight&hide_border=true&stroke=7CF7FF&fire=FF6B6B&ring=7CF7FF" width="60%" alt="GitHub Streak"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Msollajr&theme=tokyonight" width="95%" alt="Profile Details"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Msollajr&theme=tokyonight&hide_border=true&stroke=7CF7FF&fire=FF6B6B&ring=7CF7FF" width="60%" alt="GitHub Streak"/>
 
 </div>
 
